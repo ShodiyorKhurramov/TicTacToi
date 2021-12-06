@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Squid</string>
+    <string name="play1">Play Game1</string>
+    <string name="play2">Play Game2</string>
+    <string name="play3">Play Game3</string>
+   <string name="options">Options</string>
+    <string name="AboutUs">About us</string>
+</resources>
